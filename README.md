@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋,
 
-
-**Jeremy-96/Jeremy-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Jérémy and i'm a Web Developer ! 
+## Welcome to my GH profile 
 
 Here are some ideas to get you started:
 
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-## Languages and Tools :
+# Languages and Tools :
 
 <img src="https://api.iconify.design/logos:visual-studio-code.svg">
