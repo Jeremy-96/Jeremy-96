@@ -9,3 +9,5 @@
 
 
 ### 📫 How to reach me : 
+
+**<img width="20px" src="https://api.iconify.design/ic:baseline-alternate-email.svg"> jeremythonon96@hotmail.com
