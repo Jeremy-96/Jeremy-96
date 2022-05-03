@@ -4,11 +4,11 @@
 
 ### Languages and Tools :
 
-<img width="25px" style="margin-right:10px" src="https://api.iconify.design/logos:visual-studio-code.svg">
-<img width="25px" style="margin-right:10px" src="https://api.iconify.design/vscode-icons:file-type-html.svg">
-<img width="25px" style="margin-right:10px" src="https://api.iconify.design/vscode-icons:file-type-css.svg"> 
-<img width="25px" style="margin-right:10px" src="https://api.iconify.design/logos:javascript.svg">
-<img width="25px" style="margin-right:10px" src="https://api.iconify.design/logos:mysql.svg">
+<img width="25px" style="margin-right:10px" src="https://api.iconify.design/logos:visual-studio-code.svg"> <img width="25px" style="margin-right:10px" src="https://api.iconify.design/vscode-icons:file-type-html.svg"> <img width="25px" style="margin-right:10px" src="https://api.iconify.design/vscode-icons:file-type-css.svg">  <img width="25px" style="margin-right:10px" src="https://api.iconify.design/logos:javascript.svg"> <img width="25px" style="margin-right:10px" src="https://api.iconify.design/logos:mysql.svg">
+
+<img width="25px" style="margin-right:10px" src="https://api.iconify.design/vscode-icons:file-type-node.svg">
+<img width="25px" style="margin-right:10px" src="https://api.iconify.design/vscode-icons:file-type-mongo.svg">
+<img width="25px" style="margin-right:10px" src="https://api.iconify.design/vscode-icons:file-type-vue.svg">
 
 
 ### 📫 How to reach me : 
