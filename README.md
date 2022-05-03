@@ -10,4 +10,4 @@
 
 ### 📫 How to reach me : 
 
-**<img width="20px" src="https://api.iconify.design/ic:baseline-alternate-email.svg"> jeremythonon96@hotmail.com
+<img width="20px" style="color:blue"src="https://api.iconify.design/ic:baseline-alternate-email.svg"> jeremythonon96@hotmail.com
