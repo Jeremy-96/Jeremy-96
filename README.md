@@ -4,7 +4,7 @@
 
 ### Languages and Tools :
 
-<img src="https://api.iconify.design/logos:visual-studio-code.svg">
+<img size="25px" src="https://api.iconify.design/logos:visual-studio-code.svg">
 
 
 ### 📫 How to reach me : 
