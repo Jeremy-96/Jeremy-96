@@ -1,7 +1,7 @@
-Hi there 👋
+Hi there 👋,
+My name is Jérémy and i'm a Web Developer !
 -----------
 
-## My name is Jérémy and i'm a Web Developer !
 
 ### Languages and Tools :
 
