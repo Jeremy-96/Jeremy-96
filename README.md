@@ -15,3 +15,5 @@ My name is Jérémy and i'm a Web Developer !
 <img width="20px" style="color:blue" src="https://api.iconify.design/ic:baseline-alternate-email.svg"> <a href="mailto:jeremythonon96@hotmail.com">jeremythonon96@hotmail.com</a>
 
 <img width="20px" src="https://api.iconify.design/noto-v1:telephone-receiver.svg"> +32 479 70 56 55
+
+<img width="20px" src="https://api.iconify.design/logos:facebook.svg">
