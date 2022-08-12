@@ -14,7 +14,7 @@ My name is Jérémy and i'm a Web Developer !
 
 ### 📫 How to reach me ?  
 
->> <img width="20px" style="color:blue" src="https://api.iconify.design/ic:baseline-alternate-email.svg"> *<a href="mailto:info@jeremythonon.be"> info@jeremythonon.be</a>*
+>> <img width="20px" src="https://icones.js.org/collection/all?s=mail"> *<a href="mailto:info@jeremythonon.be"> info@jeremythonon.be</a>*
 
 >> <img width="20px" src="https://api.iconify.design/noto-v1:telephone-receiver.svg"> *+32 479 70 56 55*
 
