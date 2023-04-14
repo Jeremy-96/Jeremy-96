@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m looking to collaborate on a new ambitious project<br>🌱 I’m currently learning Java, Maven and Spring<br>💬 Ask me about anything that interests you, I'm open to discussion<br>⚡ Fun fact : Because I am a developer, everyone thinks I fix computers.
+💬 Ask me about anything that interests you, I'm open to discussion<br>⚡ Fun fact : Because I am a developer, everyone thinks I fix computers.
 
 
 ## 🌐 Socials:
