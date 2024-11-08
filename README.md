@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-**Features used to build this page**
+**Features used to build this page**  
+
 *[Icons repository](https://github.com/tandpfun/skill-icons)*
 
