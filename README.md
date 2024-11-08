@@ -9,15 +9,29 @@ In the near future, my ambition is to improve my skills in backend development, 
 # 🌐 Socials:
 [![My Skills](https://skillicons.dev/icons?i=devto,instagram,linkedin,stackoverflow,discord&perline=10)](https://skillicons.dev)
 
+
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,less,vercel,tailwind,js,ts,svelte,nodejs,express,mongodb,mysql,postman,notion,figma,github,idea,ai,angular,webpack,apple,vscode,linux,ubuntu,windows,java,jest,vue,latex,&perline=10)](https://skillicons.dev)
+### OS
+[![My Skills](https://skillicons.dev/icons?i=apple,linux,ubuntu,windows&perline=10)](https://skillicons.dev)
+
+### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,&perline=10)](https://skillicons.dev)
+
+### Frameworks
+[![My Skills](https://skillicons.dev/icons?i=svelte,nodejs,express,angular,vue&perline=10)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=vercel,postman,notion,github,idea,ai,webpack,vscode,jest,latex,&perline=12)](https://skillicons.dev)
+
+### Style & design
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,less,tailwind,figma&perline=10)](https://skillicons.dev)
+
 
 # [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=JeremyThonon&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jeremy-96&theme=tokyonight&hide_border=false)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyThonon&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-### ✍️ Random Dev Quote
+
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
