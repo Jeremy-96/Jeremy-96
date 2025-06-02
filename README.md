@@ -1,8 +1,7 @@
 ![github-header-image (1)](https://github.com/user-attachments/assets/70daadaf-cef6-4fc9-b7b6-dee086240779)
 
-As a passionate front-end developer, I thrive in an environment where my passion for development comes into its own. My commitment to technical excellence is reflected in each of my projects, translating into a focus on best practices, guaranteeing robust and sustainable solutions.
+As a Full-Stack Developer, I am passionate about building impactful and scalable applications. I thrive in fast-paced environments, quickly adapting to new technologies and challenges. Ambitious and proactive, I aim to deliver robust and high-value solutions while constantly expanding my technical, interpersonal and business skills.
 
-In the near future, my ambition is to improve my skills in backend development, seeking new challenges and opportunities to broaden my technical skills.
 
 ✨ Let's code the future together! ✨
 
