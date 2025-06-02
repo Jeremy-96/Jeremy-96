@@ -7,18 +7,18 @@ In the near future, my ambition is to improve my skills in backend development, 
 ✨ Let's code the future together! ✨
 
 # 🌐 Socials:
-[![My Skills](https://skillicons.dev/icons?i=devto,instagram,linkedin,stackoverflow,discord&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=devto,linkedin&perline=10)](https://skillicons.dev)
 
 
 # 💻 Tech Stack:
 ### OS
-[![My Skills](https://skillicons.dev/icons?i=apple,linux,ubuntu,windows&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,ubuntu,windows&perline=10)](https://skillicons.dev)
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,&perline=10)](https://skillicons.dev)
 
 ### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=svelte,nodejs,express,angular,vue&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,nodejs,express,nest,angular,vue,react&perline=10)](https://skillicons.dev)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=vercel,postman,notion,github,idea,ai,webpack,vscode,jest,latex,&perline=12)](https://skillicons.dev)
