@@ -1,4 +1,5 @@
-![github-header-image](https://github.com/user-attachments/assets/be77b185-bb08-4f97-8225-c49377061026)
+![github-banner](https://github.com/user-attachments/assets/a66998c3-511f-42c3-8b55-79cfc8ca8701)
+
 
 
 As a Full-Stack Developer, I am passionate about building impactful and scalable applications. I thrive in fast-paced environments, quickly adapting to new technologies and challenges. Ambitious and proactive, I aim to deliver robust and high-value solutions while constantly expanding my technical, interpersonal and business skills.
