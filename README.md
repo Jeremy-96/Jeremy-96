@@ -6,10 +6,6 @@ As a Full-Stack Developer, I am passionate about building impactful and scalable
 
 ✨ Let's code the future together! ✨
 
-# 🌐 Socials:
-[![My Skills](https://skillicons.dev/icons?i=devto,linkedin&perline=10)](https://skillicons.dev)
-
-
 # 💻 Tech Stack:
 ### OS
 [![My Skills](https://skillicons.dev/icons?i=apple,ubuntu,windows&perline=10)](https://skillicons.dev)
@@ -17,14 +13,20 @@ As a Full-Stack Developer, I am passionate about building impactful and scalable
 ### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts,&perline=10)](https://skillicons.dev)
 
-### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=svelte,nodejs,express,nest,angular,vue,react&perline=10)](https://skillicons.dev)
+### Front-end
+[![My Skills](https://skillicons.dev/icons?i=svelte,angular,react,html,css,sass,less,tailwind&perline=10)](https://skillicons.dev)
+
+### Back-end
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest&perline=10)](https://skillicons.dev)
+
+### Database
+[![My Skills](https://skillicons.dev/icons?i=mongo,mysql,postgres&perline=10)](https://skillicons.dev)
+
+### CI/CD
+[![My Skills](https://skillicons.dev/icons?i=googlecloud,docker,terraform&perline=10)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=vercel,postman,notion,github,idea,ai,webpack,vscode,jest,latex,&perline=12)](https://skillicons.dev)
-
-### Style & design
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,less,tailwind,figma&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,notion,github,vscode&perline=12)](https://skillicons.dev)
 
 
 # [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) GitHub Stats:
